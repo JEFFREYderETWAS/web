@@ -1,0 +1,11 @@
+  <div class="Send-mail">  
+       <div class="input-text-box">
+        <form class="input-text" action="https://formsubmit.co/mbajeff08@gmail.com" method="POST">
+          <input type="text"placeholder="name" name="name" required><br>
+          <input type="email"placeholder="email" name="email" required><br>
+          <input id="massage" type="text" placeholder="message" name="name" required><br>
+         
+          <button type="submit">Send</button>
+        </form>
+       </div>
+       </div>
